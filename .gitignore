@@ -1,2 +1,4 @@
 .env
 chromedriver*
+credentialsGM.json
+token.json
